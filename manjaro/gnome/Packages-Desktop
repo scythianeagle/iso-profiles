@@ -311,11 +311,14 @@ smplayer
 smplayer-skins
 gtk-engine-murrine
 meld
-ripgreb
+ripgrep
 debtap
 ffmpeg
 ffmpegthumbnailer
 tumbler
 base-devel
-
+xcolor
+smplayer-themes
+android-tools
+android-udev
 

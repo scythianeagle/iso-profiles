@@ -57,7 +57,7 @@ sysfsutils
 texinfo
 update-grub
 usbutils
-vi
+# vi
 wget
 which
 wireless-regdb
